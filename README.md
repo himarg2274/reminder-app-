@@ -60,6 +60,12 @@ View or delete reminders for that day.
 
 Expand the “View All Saved Reminders” section to see everything.
 
+## 🔗 Live Demo
+
+👉 [Reminder app](https://reminderapp2274.streamlit.app/)  
+Deployed on **Streamlit Community Cloud**
+
+
 ## 🧑‍💻 Author
 Hima Rose George
 GitHub: @himarg2274
